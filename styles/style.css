@@ -76,3 +76,9 @@ button:hover {
 .in-container {
     translate: 0 3rem;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+        scale: 0.7;
+    }
+}
