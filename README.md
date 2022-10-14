@@ -1,4 +1,4 @@
-# 🏳‍🌈 Color Randomizer 💜
+# [🏳‍🌈 Color Randomizer 💜](https://gravyard-gay.github.io/Color-Randomizer/)
 A simple color randomizer made for any type of art or artist, just press the button and a brand new color will be generated.
 # 💚 Version 1.0 💚
 ## Aditional Features
